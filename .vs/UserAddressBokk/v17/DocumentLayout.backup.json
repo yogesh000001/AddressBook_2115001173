@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\UserAddressBokk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AFB13-78B0-414D-A488-8E4E269CFC75}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\yogesh\\onedrive\\desktop\\addressbook\\repositorylayer\\migrations\\20250311052506_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AFB13-78B0-414D-A488-8E4E269CFC75}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\yogesh\\onedrive\\desktop\\addressbook\\repositorylayer\\entity\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2AFB13-78B0-414D-A488-8E4E269CFC75}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\yogesh\\onedrive\\desktop\\addressbook\\repositorylayer\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101DF332-A43D-45EE-A5E5-14D549BF56DD}|UserAddressBook.csproj|c:\\users\\yogesh\\onedrive\\desktop\\addressbook\\useraddressbokk\\controllers\\useraddressbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101DF332-A43D-45EE-A5E5-14D549BF56DD}|UserAddressBook.csproj|solutionrelative:controllers\\useraddressbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101DF332-A43D-45EE-A5E5-14D549BF56DD}|UserAddressBook.csproj|c:\\users\\yogesh\\onedrive\\desktop\\addressbook\\useraddressbokk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101DF332-A43D-45EE-A5E5-14D549BF56DD}|UserAddressBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101DF332-A43D-45EE-A5E5-14D549BF56DD}|UserAddressBook.csproj|c:\\users\\yogesh\\onedrive\\desktop\\addressbook\\useraddressbokk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{101DF332-A43D-45EE-A5E5-14D549BF56DD}|UserAddressBook.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250311052506_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\RepositoryLayer\\Migrations\\20250311052506_Initial.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Migrations\\20250311052506_Initial.cs",
+              "ToolTip": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\RepositoryLayer\\Migrations\\20250311052506_Initial.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Migrations\\20250311052506_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T05:25:07.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\RepositoryLayer\\Entity\\Address.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Entity\\Address.cs",
+              "ToolTip": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\RepositoryLayer\\Entity\\Address.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Entity\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:35:14.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\UserAddressBokk\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\UserAddressBokk\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:00:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\RepositoryLayer\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\RepositoryLayer\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:59:07.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\UserAddressBokk\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\UserAddressBokk\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T16:42:32.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserAddressBookController.cs",
+              "DocumentMoniker": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\UserAddressBokk\\Controllers\\UserAddressBookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAddressBookController.cs",
+              "ToolTip": "C:\\Users\\yogesh\\OneDrive\\Desktop\\AddressBook\\UserAddressBokk\\Controllers\\UserAddressBookController.cs",
+              "RelativeToolTip": "Controllers\\UserAddressBookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:11:16.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
