@@ -84,3 +84,10 @@ C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\obj\Debug\net6.0\Us
 C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\obj\Debug\net6.0\ref\UserAddressBook.dll
 C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\Humanizer.dll
 C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\yogesh\OneDrive\Desktop\AddressBook\UserAddressBokk\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
